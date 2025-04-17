@@ -201,8 +201,9 @@ body {
 }
 
 .redmore {
-    width: 80px;
+    width: auto;
     margin-left: 5px;
+    text-align: center;
 }
 
 .redmore:hover {
@@ -305,6 +306,6 @@ footer {
         display: flex;
         flex-direction: column;
         gap: 40px;
-        width: 200px;
+        width: 250px;
     }
 }
